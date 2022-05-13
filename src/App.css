@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: center;
+    background-color: tomato;
+    padding: 5px 10px;
+    color: white;
+    font-size: large;
+}
+
+.display-img{
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.a-link{
+    font-size: 15px;
+    margin-left: 20px;
+    color: slategrey;
+}
+
+.location{
+    color: tomato;
+}
+
+.display-error{
+    color: red;
+    padding: 50px;
+}
